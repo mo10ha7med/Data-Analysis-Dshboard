@@ -16,4 +16,5 @@ This project analyzes sales transactions and operational metrics for a bicycle r
 - **Top Brand:** **Trek** dominates sales volume compared to other brands.
 
 ## Dashboard Preview
-![Sales Overview](Images/Dashboard.png)
+
+![Dashboard](Images/Dashboard.png)
