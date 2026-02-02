@@ -17,5 +17,6 @@ This project analyzes sales transactions and operational metrics for a bicycle r
 
 ## Dashboard Preview
 
-![Dashboard](Image/Dashboard.png)
+![Bike_Store_Analysis](Image/Dashboard.png)
+
 
